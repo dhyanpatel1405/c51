@@ -1,0 +1,10 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    background-color:#336688
+  }
+  .flex-container {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+            
